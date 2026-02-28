@@ -9,7 +9,7 @@ date: 2026-03-11
 
 **Video Games For Work** is a series about play, power, and the redesign of systems that shape human life. Essay 10 of 13.
 
-[← Synthesis — You Are Already Playing a Better Game](./09-synthesis.md) | [Next: The Local Game →](./11-the-local-game.md) | [Full series index →](./00-opener.md)
+[← Synthesis — You Are Already Playing a Better Game](/vgfw-blog/2026/03/10/vgfw-you-are-already-playing-a-better-game/) | [Next: The Local Game →](/vgfw-blog/2026/03/12/vgfw-the-local-game/) | [Full series index →](/vgfw-blog/2026/03/01/vgfw-there-are-two-doors/)
 
 ---
 

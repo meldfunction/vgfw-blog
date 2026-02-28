@@ -9,9 +9,9 @@ date: 2026-03-10
 
 **Video Games For Work** is a series about play, power, and the redesign of systems that shape human life. Essay 9 of 13.
 
-[← B·3 — Getting Serious About Play](./08-B3-serious-about-play.md) | [Next: Lead Together →](./10-lead-together.md) | [Full series index →](./00-opener.md)
+[← B·3 — Getting Serious About Play](/vgfw-blog/2026/03/09/vgfw-b3-getting-serious-about-play/) | [Next: Lead Together →](/vgfw-blog/2026/03/11/vgfw-lead-together/) | [Full series index →](/vgfw-blog/2026/03/01/vgfw-there-are-two-doors/)
 
-*Or: if you came through Door A — [← A·3c — Soul Work Is Load Bearing](./05-A3c-soul-work.md)*
+*Or: if you came through Door A — [← A·3c — Soul Work Is Load Bearing](/vgfw-blog/2026/03/06/vgfw-a3c-soul-work-is-load-bearing/)*
 
 ---
 
@@ -31,7 +31,7 @@ Hades does not call dying failure. It calls it *back again.* The House of Hades 
 
 I think our careers have been doing this. Every chapter ends and we return carrying more of what matters. The game has been getting longer runs. The game is not over. The game is working as designed.
 
-What is not working is the frame the wrong rulebook has given you for reading it. The wrong frame makes the lateral move look like a demotion. Makes the side project look like distraction. Makes the departure from the credentialed path look like failure. Makes the hollow feeling at the destination — all those stats maxed, all those credentials accumulated, all those targets hit — look like a personal problem rather than the correct signal from your [soul work](./05-A3c-soul-work.md) that the destination was not the point.
+What is not working is the frame the wrong rulebook has given you for reading it. The wrong frame makes the lateral move look like a demotion. Makes the side project look like distraction. Makes the departure from the credentialed path look like failure. Makes the hollow feeling at the destination — all those stats maxed, all those credentials accumulated, all those targets hit — look like a personal problem rather than the correct signal from your [soul work](/vgfw-blog/2026/03/06/vgfw-a3c-soul-work-is-load-bearing/) that the destination was not the point.
 
 The rage-quit is a respawn. The lateral move is XP. The trusted small team you built inside the broken organization is a guild. The knowledge you developed outside the job description is a skill tree you filled in for yourself, visible only to people who know how to read it. The morning you spent doing the actual work instead of the performance of the actual work was a run in which Zagreus got further than the run before.
 
@@ -45,7 +45,7 @@ Before the return — before the Jonathan move — a real objection needs a real
 
 Play is a luxury. Meaning is a luxury. The questions this series has been asking — what are you flying for, what game do you actually want to play — are questions that presuppose enough distance from survival to entertain them. The seventy million white-collar workers facing displacement are facing a material crisis, not a philosophical one. The gig economy worker paying rent to three different platforms to cover their expenses does not need a theory of soul work. They need rent money.
 
-This objection is correct. And it is exactly the objection the [Blackfoot tipi answers](./06-B1-pyramid-upside-down.md).
+This objection is correct. And it is exactly the objection the [Blackfoot tipi answers](/vgfw-blog/2026/03/07/vgfw-b1-the-pyramid-was-always-upside-down/).
 
 The tipi puts community actualization at the base, not at the apex. The community's capacity to provision for its members is the foundation on which individual development rests. You cannot self-actualize in the absence of material conditions that make it possible. That is not an aspiration statement. It is a design requirement.
 
@@ -65,7 +65,7 @@ He doesn't go back because he has to. He goes back because the thing he found �
 
 The bodhisattva refuses final liberation because the liberation of all beings is the actual destination. The guru's lineage exists to make the guru unnecessary. Plato's Academy exists to produce thinkers who will surpass Plato. Every serious tradition of mastery has this structure at its core: the point of getting good is to create conditions for others to get better than you.
 
-This is [the Blackfoot tipi's](./06-B1-pyramid-upside-down.md) cultural perpetuity, at the individual scale. The apex is not your flourishing. It is what your flourishing makes possible for the people who come after. The game worth playing is the one where you are playing not just for yourself but for the quality of the game itself — for the people not yet in the room, for the next generation of players, for the preservation and extension of the capacity to play well.
+This is [the Blackfoot tipi's](/vgfw-blog/2026/03/07/vgfw-b1-the-pyramid-was-always-upside-down/) cultural perpetuity, at the individual scale. The apex is not your flourishing. It is what your flourishing makes possible for the people who come after. The game worth playing is the one where you are playing not just for yourself but for the quality of the game itself — for the people not yet in the room, for the next generation of players, for the preservation and extension of the capacity to play well.
 
 Maslow was reaching for this at the end. He just didn't have the language. Or he had it and lost it, because the people he visited in Alberta in 1938 already had a word for it and he inverted their pyramid instead of learning from it.
 

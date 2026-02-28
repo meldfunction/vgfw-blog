@@ -9,7 +9,7 @@ date: 2026-03-06
 
 **Video Games For Work** is a series about play, power, and the redesign of systems that shape human life. Essay 5 of 13.
 
-[← A·3b — The Missing Curriculum](./04-A3b-missing-curriculum.md) | [Next: Synthesis — You Are Already Playing a Better Game →](./09-synthesis.md) | [Full series index →](./00-opener.md)
+[← A·3b — The Missing Curriculum](/vgfw-blog/2026/03/05/vgfw-a3b-the-missing-curriculum/) | [Next: Synthesis — You Are Already Playing a Better Game →](/vgfw-blog/2026/03/10/vgfw-you-are-already-playing-a-better-game/) | [Full series index →](/vgfw-blog/2026/03/01/vgfw-there-are-two-doors/)
 
 ---
 
@@ -29,7 +29,7 @@ Let me try to get at the thing before the word.
 
 ## Three Kinds of Work (And Why We Only Measure One)
 
-Not all work is the same kind of work. The [wrong rulebook](./03-A3a-wrong-rulebook.md) treats it as though it is — as though all human productive activity can be measured in the same units, evaluated by the same metrics, motivated by the same combination of incentive and threat. That category error is at the bottom of most organizational dysfunction.
+Not all work is the same kind of work. The [wrong rulebook](/vgfw-blog/2026/03/04/vgfw-a3a-the-wrong-rulebook/) treats it as though it is — as though all human productive activity can be measured in the same units, evaluated by the same metrics, motivated by the same combination of incentive and threat. That category error is at the bottom of most organizational dysfunction.
 
 There are at least three kinds.
 
@@ -41,7 +41,7 @@ There are at least three kinds.
 
 Soul work is not separate from role work or natural work. It runs underneath them. And it cannot be extracted, measured, or managed — which is precisely why the wrong rulebook has no concept for it and the DEAD game, when it encounters it, responds by trying to simulate it. Hence: the values deck. The mission statement. The culture committee. Bring your whole self to work, on the condition that your whole self is compliant and productive.
 
-What the [DEAD game](./01-A1-the-dead-game.md) consistently fails to understand is that soul work is load bearing. It is not the decoration on top of the real work. It is what holds the real work up. I believe this is true. I also believe most organizations would have to fundamentally restructure to act on it, which is why they don't.
+What the [DEAD game](/vgfw-blog/2026/03/02/vgfw-a1-the-dead-game/) consistently fails to understand is that soul work is load bearing. It is not the decoration on top of the real work. It is what holds the real work up. I believe this is true. I also believe most organizations would have to fundamentally restructure to act on it, which is why they don't.
 
 ---
 
@@ -57,7 +57,7 @@ The second problem is something almost no one discusses. Toward the end of his l
 
 Self-transcendence is the Jonathan move. The bodhisattva move. The moment at which mastery stops being about what it produces for the self and starts being about what it makes possible for others.
 
-Maslow spent his life building a pyramid that pointed at self-actualization as the highest human aspiration. At the end of his life, he was reaching for something above the pyramid. He just didn't have the language. Or maybe he had it and lost it, because [the Blackfoot people of Alberta gave it to him in 1938](https://www.glenbow.org) and he translated it into a universal hierarchy instead of understanding it as a specific teaching about the relationship between individual flourishing and community perpetuity. That story is [in Door B](./06-B1-pyramid-upside-down.md). It matters more than I can do justice to in one paragraph.
+Maslow spent his life building a pyramid that pointed at self-actualization as the highest human aspiration. At the end of his life, he was reaching for something above the pyramid. He just didn't have the language. Or maybe he had it and lost it, because [the Blackfoot people of Alberta gave it to him in 1938](https://www.glenbow.org) and he translated it into a universal hierarchy instead of understanding it as a specific teaching about the relationship between individual flourishing and community perpetuity. That story is [in Door B](/vgfw-blog/2026/03/07/vgfw-b1-the-pyramid-was-always-upside-down/). It matters more than I can do justice to in one paragraph.
 
 ---
 
@@ -103,7 +103,7 @@ What do you do with it?
 
 You don't optimize your way through it. You don't add another certification. You don't lateral into a shinier role. You ask the question the series spine is built on: what are you flying for? And what do you do when you find out?
 
-I don't have a clean answer to that. [The synthesis](./09-synthesis.md) takes a run at it. Door B takes a different approach, starting with a question about which pyramid has been upside down from the beginning.
+I don't have a clean answer to that. [The synthesis](/vgfw-blog/2026/03/10/vgfw-you-are-already-playing-a-better-game/) takes a run at it. Door B takes a different approach, starting with a question about which pyramid has been upside down from the beginning.
 
 Either way, you are not looking for a better role. You are looking for a different game.
 

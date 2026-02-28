@@ -9,7 +9,7 @@ date: 2026-03-09
 
 **Video Games For Work** is a series about play, power, and the redesign of systems that shape human life. Essay 8 of 13.
 
-[← B·2 — Beyond Game A and Game B](./07-B2-beyond-game-ab.md) | [Next: Synthesis — You Are Already Playing a Better Game →](./09-synthesis.md) | [Full series index →](./00-opener.md)
+[← B·2 — Beyond Game A and Game B](/vgfw-blog/2026/03/08/vgfw-b2-beyond-game-a-and-game-b-or-the-framer-problem/) | [Next: Synthesis — You Are Already Playing a Better Game →](/vgfw-blog/2026/03/10/vgfw-you-are-already-playing-a-better-game/) | [Full series index →](/vgfw-blog/2026/03/01/vgfw-there-are-two-doors/)
 
 ---
 
@@ -49,7 +49,7 @@ The Tarot de Marseille emerged in fifteenth-century Europe, probably from earlie
 
 This is decision technology. It is the activation of different interpretive lenses on a situation you are too close to to see clearly. Tarot does not tell you what to do. It asks: have you looked at this from the other side?
 
-The [wrong rulebook](./03-A3a-wrong-rulebook.md) has no category for this kind of tool. It cannot be certified, measured, or standardized. It produces insights that cannot be tracked in a dashboard. That is, precisely, why it has survived outside institutions for five hundred years while the institutions have cycled through paradigm after paradigm in search of the tool they keep building systems to preclude.
+The [wrong rulebook](/vgfw-blog/2026/03/04/vgfw-a3a-the-wrong-rulebook/) has no category for this kind of tool. It cannot be certified, measured, or standardized. It produces insights that cannot be tracked in a dashboard. That is, precisely, why it has survived outside institutions for five hundred years while the institutions have cycled through paradigm after paradigm in search of the tool they keep building systems to preclude.
 
 ---
 

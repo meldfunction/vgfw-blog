@@ -9,7 +9,7 @@ date: 2026-03-02
 
 **Video Games For Work** is a series about play, power, and the redesign of systems that shape human life. Essay 1 of 13.
 
-[← Opener: There Are Two Doors](./00-opener.md) | [Next: A·2 — Technofeudalism →](./02-A2-technofeudalism.md) | [Full series index →](./00-opener.md)
+[← Opener: There Are Two Doors](/vgfw-blog/2026/03/01/vgfw-there-are-two-doors/) | [Next: A·2 — Technofeudalism →](/vgfw-blog/2026/03/03/vgfw-a2-rise-of-technofeudalism/) | [Full series index →](/vgfw-blog/2026/03/01/vgfw-there-are-two-doors/)
 
 ---
 

@@ -9,7 +9,7 @@ date: 2026-03-08
 
 **Video Games For Work** is a series about play, power, and the redesign of systems that shape human life. Essay 7 of 13.
 
-[← B·1 — The Pyramid Was Always Upside Down](./06-B1-pyramid-upside-down.md) | [Next: B·3 — Getting Serious About Play →](./08-B3-serious-about-play.md) | [Full series index →](./00-opener.md)
+[← B·1 — The Pyramid Was Always Upside Down](/vgfw-blog/2026/03/07/vgfw-b1-the-pyramid-was-always-upside-down/) | [Next: B·3 — Getting Serious About Play →](/vgfw-blog/2026/03/09/vgfw-b3-getting-serious-about-play/) | [Full series index →](/vgfw-blog/2026/03/01/vgfw-there-are-two-doors/)
 
 ---
 
@@ -57,7 +57,7 @@ This happens. The Mondragon cooperatives — genuinely one of the most successfu
 
 What this does not mean is that alternatives don't work. It means alternatives require not just different institutions but different habits of relation, different inner conditions, different cultural transmission of the values that make cooperation possible. You cannot write a constitution and call it done. You have to cultivate the soil that makes the constitution something people actually live by.
 
-Game B institutions built by people still running Game A inner software will drift toward Game A outcomes. The missing piece is not better governance design. It is the inner work that makes a different way of relating possible. Which is why [A·3c](./05-A3c-soul-work.md) is not optional content.
+Game B institutions built by people still running Game A inner software will drift toward Game A outcomes. The missing piece is not better governance design. It is the inner work that makes a different way of relating possible. Which is why [A·3c](/vgfw-blog/2026/03/06/vgfw-a3c-soul-work-is-load-bearing/) is not optional content.
 
 ---
 

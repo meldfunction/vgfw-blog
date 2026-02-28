@@ -9,7 +9,7 @@ date: 2026-03-13
 
 **Video Games For Work** is a series about play, power, and the redesign of systems that shape human life. Essay 12 of 13.
 
-[← The Local Game](./11-the-local-game.md) | [Full series index →](./00-opener.md)
+[← The Local Game](/vgfw-blog/2026/03/12/vgfw-the-local-game/) | [Full series index →](/vgfw-blog/2026/03/01/vgfw-there-are-two-doors/)
 
 ---
 

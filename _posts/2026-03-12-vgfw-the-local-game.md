@@ -9,7 +9,7 @@ date: 2026-03-12
 
 **Video Games For Work** is a series about play, power, and the redesign of systems that shape human life. Essay 11 of 13.
 
-[← Lead Together](./10-lead-together.md) | [Next: The Slow Game →](./12-the-slow-game.md) | [Full series index →](./00-opener.md)
+[← Lead Together](/vgfw-blog/2026/03/11/vgfw-lead-together/) | [Next: The Slow Game →](/vgfw-blog/2026/03/13/vgfw-the-slow-game/) | [Full series index →](/vgfw-blog/2026/03/01/vgfw-there-are-two-doors/)
 
 ---
 
@@ -17,7 +17,7 @@ The game board has always been geography.
 
 Before platforms. Before global supply chains. Before the corporation that employs you is headquartered in a state you have never visited and owned by investors you will never meet. Before all of that, the unit of economic life was the place where you lived — the watershed, the valley, the neighborhood, the town — and the people you could actually see and know and hold accountable because they had to look you in the eye at the market on Saturday.
 
-What the [technofeudalism](./02-A2-technofeudalism.md) essay describes — the colonization of local economies by platform infrastructure that the local community neither owns nor governs — also demonstrated something the platforms didn't intend to: that people still want what local economies provided. Farmers markets have grown for twenty consecutive years. Local food co-ops are expanding. The craft brewing industry in the United States went from 89 breweries in 1980 to over 9,000 in 2023. People are willing to pay more, inconvenience themselves more, for something with a face behind it.
+What the [technofeudalism](/vgfw-blog/2026/03/03/vgfw-a2-rise-of-technofeudalism/) essay describes — the colonization of local economies by platform infrastructure that the local community neither owns nor governs — also demonstrated something the platforms didn't intend to: that people still want what local economies provided. Farmers markets have grown for twenty consecutive years. Local food co-ops are expanding. The craft brewing industry in the United States went from 89 breweries in 1980 to over 9,000 in 2023. People are willing to pay more, inconvenience themselves more, for something with a face behind it.
 
 That is not nostalgia. That is demand for a different game board.
 
@@ -39,7 +39,7 @@ The model is not directly transferable. The Basque Country's history, culture, a
 
 **Civic Tech and the Open City.** [Code for America](https://www.codeforamerica.org) — and its international equivalents in the Code for All network — began from a specific observation: cities hold enormous amounts of data about the lives of their residents, residents could use that data to understand and navigate their relationship to city services, and the technology to make that possible was available but not deployed because the institutional capacity to deploy it was missing.
 
-What emerged from a decade of Code for America brigades was less a set of specific applications and more a practice: technologists and community organizers and city government staff working together to understand what residents actually need, build the smallest possible thing that serves that need, test it with real people, and iterate. That practice — which looks a lot like [Theory U's](./04-A3b-missing-curriculum.md) sensing journey and rapid prototyping — is transferable to any city willing to treat its residents as co-designers rather than service recipients.
+What emerged from a decade of Code for America brigades was less a set of specific applications and more a practice: technologists and community organizers and city government staff working together to understand what residents actually need, build the smallest possible thing that serves that need, test it with real people, and iterate. That practice — which looks a lot like [Theory U's](/vgfw-blog/2026/03/05/vgfw-a3b-the-missing-curriculum/) sensing journey and rapid prototyping — is transferable to any city willing to treat its residents as co-designers rather than service recipients.
 
 ---
 
