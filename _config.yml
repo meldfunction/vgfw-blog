@@ -1,0 +1,9 @@
+title: VGFW Series
+description: Video Games For Work - A series on play, power, and redesigning systems
+baseurl: /vgfw-blog
+url: "https://meldfunction.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+markdown: kramdown
+future: true
