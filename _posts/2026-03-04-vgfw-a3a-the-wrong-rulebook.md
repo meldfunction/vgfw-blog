@@ -9,7 +9,7 @@ date: 2026-03-04
 
 **Video Games For Work** is a series about play, power, and the redesign of systems that shape human life. Essay 3 of 13.
 
-[← A·2 — Technofeudalism](/vgfw-blog/2026/03/03/vgfw-a2-rise-of-technofeudalism/) | [Next: A·3b — The Missing Curriculum →](/vgfw-blog/2026/03/05/vgfw-a3b-the-missing-curriculum/) | [Full series index →](/vgfw-blog/2026/03/01/vgfw-there-are-two-doors/)
+[← A·2 — Technofeudalism](/vgfw-blog/2026/03/03/vgfw-a2-rise-of-technofeudalism.html) | [Next: A·3b — The Missing Curriculum →](/vgfw-blog/2026/03/05/vgfw-a3b-the-missing-curriculum.html) | [Full series index →](/vgfw-blog/2026/03/01/vgfw-there-are-two-doors.html)
 
 ---
 
@@ -93,7 +93,7 @@ The rulebook calls this the engagement crisis. The workers living it call it som
 
 I genuinely don't know the full answer to this yet. The next two essays take a run at parts of it.
 
-[A·3b](/vgfw-blog/2026/03/05/vgfw-a3b-the-missing-curriculum/) documents the tools that already exist — a curriculum for a different way of working that was never formally taught. [A·3c](/vgfw-blog/2026/03/06/vgfw-a3c-soul-work-is-load-bearing/) argues that the deepest missing piece is not a methodology or a certification or a better performance management system. It is something closer to what Montessori had and Taylor never did: a genuine theory of what human beings are for.
+[A·3b](/vgfw-blog/2026/03/05/vgfw-a3b-the-missing-curriculum.html) documents the tools that already exist — a curriculum for a different way of working that was never formally taught. [A·3c](/vgfw-blog/2026/03/06/vgfw-a3c-soul-work-is-load-bearing.html) argues that the deepest missing piece is not a methodology or a certification or a better performance management system. It is something closer to what Montessori had and Taylor never did: a genuine theory of what human beings are for.
 
 The wrong rulebook was always a choice. Which means a different choice is possible. Someone already made it. Thousands of schools, a hundred cooperatives, dozens of communities of practice, and one notably persistent video game designer named Will Wright, who looked at Taylor's logic, shrugged, built *The Sims*, and watched players spend thirty years systematically breaking the career track.
 

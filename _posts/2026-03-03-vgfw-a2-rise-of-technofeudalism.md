@@ -9,7 +9,7 @@ date: 2026-03-03
 
 **Video Games For Work** is a series about play, power, and the redesign of systems that shape human life. Essay 2 of 13.
 
-[← A·1 — The DEAD Game](/vgfw-blog/2026/03/02/vgfw-a1-the-dead-game/) | [Next: A·3a — The Wrong Rulebook →](/vgfw-blog/2026/03/04/vgfw-a3a-the-wrong-rulebook/) | [Full series index →](/vgfw-blog/2026/03/01/vgfw-there-are-two-doors/)
+[← A·1 — The DEAD Game](/vgfw-blog/2026/03/02/vgfw-a1-the-dead-game.html) | [Next: A·3a — The Wrong Rulebook →](/vgfw-blog/2026/03/04/vgfw-a3a-the-wrong-rulebook.html) | [Full series index →](/vgfw-blog/2026/03/01/vgfw-there-are-two-doors.html)
 
 ---
 
@@ -31,7 +31,7 @@ I believe this era is over. What replaced capitalism's profit-driven logic is a 
 
 With cloud capital, much of its stock is being produced not by employees but by users at large — unpaid people who come into contact with its algorithms and work for free to imbue them with a greater capacity to attract other users. You are not the customer. You are not even the product. You are the serf who builds the lord's castle while living in the field outside it.
 
-Call it technofeudalism or late capitalism or platform capitalism. It is the [DEAD game](/vgfw-blog/2026/03/02/vgfw-a1-the-dead-game/) wearing a hoodie.
+Call it technofeudalism or late capitalism or platform capitalism. It is the [DEAD game](/vgfw-blog/2026/03/02/vgfw-a1-the-dead-game.html) wearing a hoodie.
 
 ---
 
@@ -87,7 +87,7 @@ Genuine trust is load-bearing. It is what makes cooperation possible, what makes
 
 It is a relationship.
 
-That is where the next game begins. Not in the destruction of the platforms but in the construction of something beside them that people would rather belong to. Some of that construction is already happening. More in [The Local Game](/vgfw-blog/2026/03/12/vgfw-the-local-game/).
+That is where the next game begins. Not in the destruction of the platforms but in the construction of something beside them that people would rather belong to. Some of that construction is already happening. More in [The Local Game](/vgfw-blog/2026/03/12/vgfw-the-local-game.html).
 
 ---
 

@@ -9,7 +9,7 @@ date: 2026-03-05
 
 **Video Games For Work** is a series about play, power, and the redesign of systems that shape human life. Essay 4 of 13.
 
-[← A·3a — The Wrong Rulebook](/vgfw-blog/2026/03/04/vgfw-a3a-the-wrong-rulebook/) | [Next: A·3c — Soul Work Is Load Bearing →](/vgfw-blog/2026/03/06/vgfw-a3c-soul-work-is-load-bearing/) | [Full series index →](/vgfw-blog/2026/03/01/vgfw-there-are-two-doors/)
+[← A·3a — The Wrong Rulebook](/vgfw-blog/2026/03/04/vgfw-a3a-the-wrong-rulebook.html) | [Next: A·3c — Soul Work Is Load Bearing →](/vgfw-blog/2026/03/06/vgfw-a3c-soul-work-is-load-bearing.html) | [Full series index →](/vgfw-blog/2026/03/01/vgfw-there-are-two-doors.html)
 
 ---
 
@@ -17,7 +17,7 @@ The tools are not missing. They have been here for decades. Some of them have be
 
 It is just not taught in school. It is not on LinkedIn Learning. It is not a PMI certification track. It is not what the performance review measures.
 
-The [wrong rulebook](/vgfw-blog/2026/03/04/vgfw-a3a-the-wrong-rulebook/) got there first. What follows is what got left out. A partial list. Work in progress.
+The [wrong rulebook](/vgfw-blog/2026/03/04/vgfw-a3a-the-wrong-rulebook.html) got there first. What follows is what got left out. A partial list. Work in progress.
 
 ---
 
@@ -57,7 +57,7 @@ The U-shape maps the movement from downloading — applying past patterns to pre
 
 What makes Theory U a game mechanic rather than a philosophical position is the specific practices Scharmer identifies for making the movement possible: interviews at the edge of the system, sensing journeys, structured dialogue processes for the collective movement from sensing to envisioning to acting.
 
-I think about the respawn mechanic in Hades — which [A·3c](/vgfw-blog/2026/03/06/vgfw-a3c-soul-work-is-load-bearing/) explores at length — as a game design translation of this U-shape. Zagreus dies. He descends again. He carries something forward. Each run is not a reset. It is a presencing. The game is literally designed to teach the player to interrupt the download of previous runs and be present to what this particular configuration is asking of them.
+I think about the respawn mechanic in Hades — which [A·3c](/vgfw-blog/2026/03/06/vgfw-a3c-soul-work-is-load-bearing.html) explores at length — as a game design translation of this U-shape. Zagreus dies. He descends again. He carries something forward. Each run is not a reset. It is a presencing. The game is literally designed to teach the player to interrupt the download of previous runs and be present to what this particular configuration is asking of them.
 
 Most organizations need to learn this. The game has already taught it to twenty million players.
 
@@ -73,7 +73,7 @@ The Warm Data Lab is a hosted conversation process Bateson developed to help com
 
 The application to organizations is direct. The data that performance management systems capture is cold data — quantifiable outputs, measurable behaviors, trackable metrics. The data those systems systematically fail to capture is warm — the state of trust between teams, the quality of the informal networks through which actual knowledge moves, the degree to which people feel their contribution matters, the slowly accumulating damage of a culture that optimizes for compliance. You cannot see warm data in a dashboard. You can only see it when you create conditions for people to share it.
 
-This is also why the [DEAD game's](/vgfw-blog/2026/03/02/vgfw-a1-the-dead-game/) Adapt move is always limited. The corporation restructures in response to the visible signals while the warm data, the actual state of the human system, continues to degrade invisibly until it becomes catastrophically visible. Then someone is surprised. Every time.
+This is also why the [DEAD game's](/vgfw-blog/2026/03/02/vgfw-a1-the-dead-game.html) Adapt move is always limited. The corporation restructures in response to the visible signals while the warm data, the actual state of the human system, continues to degrade invisibly until it becomes catastrophically visible. Then someone is surprised. Every time.
 
 ---
 
@@ -109,7 +109,7 @@ They are not in the MBA. They are not in the SHRM certification. They are not on
 
 I could be bitter about this. Instead I will just say: the next essay asks why. The answer is not that they don't work. It's that they work in a way that the wrong rulebook cannot accommodate — they require, in order to function, a different theory of what human beings are.
 
-Which brings us to [A·3c](/vgfw-blog/2026/03/06/vgfw-a3c-soul-work-is-load-bearing/).
+Which brings us to [A·3c](/vgfw-blog/2026/03/06/vgfw-a3c-soul-work-is-load-bearing.html).
 
 ---
 

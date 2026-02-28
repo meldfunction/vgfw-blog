@@ -9,7 +9,7 @@ date: 2026-03-01
 
 **Video Games For Work** is a series about play, power, and the redesign of systems that shape human life. This is the Opener.
 
-[Door A: The DEAD Game →](/vgfw-blog/2026/03/02/vgfw-a1-the-dead-game/) | [Door B: The Pyramid Was Always Upside Down →](/vgfw-blog/2026/03/07/vgfw-b1-the-pyramid-was-always-upside-down/)
+[Door A: The DEAD Game →](/vgfw-blog/2026/03/02/vgfw-a1-the-dead-game.html) | [Door B: The Pyramid Was Always Upside Down →](/vgfw-blog/2026/03/07/vgfw-b1-the-pyramid-was-always-upside-down.html)
 
 ---
 
@@ -71,9 +71,9 @@ But: what do you do when you find out what you're actually flying for?
 
 ## There are two ways in. Both lead to the same place.
 
-**[Door A: The Diagnosis](/vgfw-blog/2026/03/02/vgfw-a1-the-dead-game/)** is for people who need to understand what broke before imagining what might replace it. It begins with the game that's actually been running — what we're calling the DEAD game — and moves through the digital feudalism of the platform economy, the Taylorist assumptions baked into every job description you've ever read, the learning systems never designed to produce the kind of people they claimed to be producing, and the soul work that got stripped out when work became just a job. Structural. Diagnostic. Occasionally enraging. Names things. Cites sources. Does not console.
+**[Door A: The Diagnosis](/vgfw-blog/2026/03/02/vgfw-a1-the-dead-game.html)** is for people who need to understand what broke before imagining what might replace it. It begins with the game that's actually been running — what we're calling the DEAD game — and moves through the digital feudalism of the platform economy, the Taylorist assumptions baked into every job description you've ever read, the learning systems never designed to produce the kind of people they claimed to be producing, and the soul work that got stripped out when work became just a job. Structural. Diagnostic. Occasionally enraging. Names things. Cites sources. Does not console.
 
-**[Door B: The Imagination](/vgfw-blog/2026/03/07/vgfw-b1-the-pyramid-was-always-upside-down/)** is for people who need to imagine before they can diagnose. It begins with a pyramid that was built upside down — a theft so quiet and so long ago that we mistook the inversion for the original — and moves through the history of games as civilization technology, from Prussian war rooms to tarot cards to forty years of role-playing games. It asks what gaming figured out about human motivation that four hundred years of management theory missed. Philosophical. Historical. Occasionally electric.
+**[Door B: The Imagination](/vgfw-blog/2026/03/07/vgfw-b1-the-pyramid-was-always-upside-down.html)** is for people who need to imagine before they can diagnose. It begins with a pyramid that was built upside down — a theft so quiet and so long ago that we mistook the inversion for the original — and moves through the history of games as civilization technology, from Prussian war rooms to tarot cards to forty years of role-playing games. It asks what gaming figured out about human motivation that four hundred years of management theory missed. Philosophical. Historical. Occasionally electric.
 
 Both doors end at the same essay: a synthesis that argues the new game is not coming. It is already running. In the rage-quits and lateral moves and trusted small teams built inside broken large organizations to get the real work done. In the side projects and skills developed outside job descriptions and communities of practice that formed because the institution couldn't hold what people actually needed.
 

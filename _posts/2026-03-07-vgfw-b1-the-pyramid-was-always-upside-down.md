@@ -9,7 +9,7 @@ date: 2026-03-07
 
 **Video Games For Work** is a series about play, power, and the redesign of systems that shape human life. Essay 6 of 13.
 
-[← Opener: There Are Two Doors](/vgfw-blog/2026/03/01/vgfw-there-are-two-doors/) | [Next: B·2 — Beyond Game A and Game B →](/vgfw-blog/2026/03/08/vgfw-b2-beyond-game-a-and-game-b-or-the-framer-problem/) | [Full series index →](/vgfw-blog/2026/03/01/vgfw-there-are-two-doors/)
+[← Opener: There Are Two Doors](/vgfw-blog/2026/03/01/vgfw-there-are-two-doors.html) | [Next: B·2 — Beyond Game A and Game B →](/vgfw-blog/2026/03/08/vgfw-b2-beyond-game-a-and-game-b-or-the-framer-problem.html) | [Full series index →](/vgfw-blog/2026/03/01/vgfw-there-are-two-doors.html)
 
 ---
 
